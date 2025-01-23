@@ -1,0 +1,11 @@
+{
+  "apiVersion": "grizzly.grafana.com/v1alpha1",
+  "kind": "DashboardFolder",
+  "metadata": {
+    "name": "Mq1we2M4k"
+  },
+  "spec": {
+    "title": "Bedrock",
+    "uid": "Mq1we2M4k"
+  }
+}
