@@ -1,4 +1,4 @@
-# grafana-dashboards
+# grafana-dashboards-public
 
 This repository tracks the latest public Optimism Grafana dashboards.
 
@@ -8,13 +8,13 @@ Dashboards are stored as metadata-enhanced JSON files in `resources/dashboards` 
 
 ### Setup
 
-[Install `grizzly`](https://grafana.github.io/grizzly/installation/) and run the following command to configure it with the Grafana instance:
+[Install `grizzly`](https://grafana.github.io/grizzly/installation/) and run the following command to configure it with your Grafana instance:
 
 ```bash
-just configure-cloud <service account token>
+just configure-grafana <url> <service account token>
 ```
 
-You can create a new service account and an associated token [here](https://optimistic.grafana.net/org/serviceaccounts/create).
+You can create a new service account and an associated token at this URL on your Grafana instance: `https://<grafana url>/org/serviceaccounts/create`.
 
 ## Usage
 
@@ -22,12 +22,4 @@ To provision these dashboards in your Grafana instance, run the following comman
 
 ```bash
 just push
-```
-
-## Updating
-
-To pull the latest dashboards from Grafana, run the following command:
-
-```bash
-just pull
 ```
