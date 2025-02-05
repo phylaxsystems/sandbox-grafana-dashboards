@@ -2,11 +2,11 @@
   "apiVersion": "grizzly.grafana.com/v1alpha1",
   "kind": "DashboardFolder",
   "metadata": {
-    "name": "Mq1we2M4k"
+    "name": "adxpiz9jgfapsd"
   },
   "spec": {
     "orgId": 1,
-    "title": "Bedrock",
-    "uid": "Mq1we2M4k"
+    "title": "Platforms Team",
+    "uid": "adxpiz9jgfapsd"
   }
 }
