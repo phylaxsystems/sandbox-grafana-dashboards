@@ -1,4 +1,10 @@
 {
+  "apiVersion": "grizzly.grafana.com/v1alpha1",
+  "kind": "Dashboard",
+  "metadata": {
+    "folder": "JAks81jbn",
+    "name": "bei727bz526tca"
+  },
   "annotations": {
     "list": [
       {
