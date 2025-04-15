@@ -24,7 +24,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 15,
+  "id": 17,
   "links": [],
   "panels": [
     {
@@ -107,6 +107,7 @@
         "y": 1
       },
       "id": 2,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -205,6 +206,7 @@
         "y": 9
       },
       "id": 9,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -269,6 +271,7 @@
         "y": 9
       },
       "id": 1,
+      "interval": "1",
       "options": {
         "colorMode": "value",
         "graphMode": "area",
@@ -337,6 +340,7 @@
         "y": 17
       },
       "id": 20,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -436,6 +440,7 @@
         "y": 17
       },
       "id": 11,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -475,6 +480,7 @@
         "y": 25
       },
       "id": 10,
+      "interval": "1",
       "panels": [],
       "title": "Transaction processing",
       "type": "row"
@@ -505,6 +511,7 @@
         "y": 26
       },
       "id": 17,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -604,6 +611,7 @@
         "y": 26
       },
       "id": 16,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -661,6 +669,7 @@
         "y": 34
       },
       "id": 21,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -741,8 +750,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -760,6 +768,7 @@
         "y": 34
       },
       "id": 4,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -817,6 +826,7 @@
         "y": 42
       },
       "id": 22,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -916,8 +926,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -935,6 +944,7 @@
         "y": 42
       },
       "id": 6,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -993,8 +1003,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1012,6 +1021,7 @@
         "y": 50
       },
       "id": 12,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1090,8 +1100,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1109,6 +1118,7 @@
         "y": 50
       },
       "id": 7,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1166,6 +1176,7 @@
         "y": 58
       },
       "id": 23,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -1249,8 +1260,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1268,6 +1278,7 @@
         "y": 58
       },
       "id": 5,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1328,6 +1339,7 @@
         "y": 66
       },
       "id": 13,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -1408,8 +1420,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1427,6 +1438,7 @@
         "y": 66
       },
       "id": 24,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1505,8 +1517,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1524,6 +1535,7 @@
         "y": 74
       },
       "id": 27,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1603,8 +1615,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1622,6 +1633,7 @@
         "y": 74
       },
       "id": 26,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -1661,6 +1673,7 @@
         "y": 82
       },
       "id": 14,
+      "interval": "1",
       "panels": [],
       "title": "State processing",
       "type": "row"
@@ -1692,6 +1705,7 @@
         "y": 83
       },
       "id": 31,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -1772,8 +1786,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1791,6 +1804,7 @@
         "y": 83
       },
       "id": 30,
+      "interval": "1",
       "options": {
         "combine": false,
         "legend": {
@@ -1849,6 +1863,7 @@
         "y": 91
       },
       "id": 19,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -1929,8 +1944,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1948,6 +1962,7 @@
         "y": 91
       },
       "id": 15,
+      "interval": "1",
       "options": {
         "combine": false,
         "legend": {
@@ -1988,6 +2003,7 @@
         "y": 99
       },
       "id": 25,
+      "interval": "1",
       "panels": [],
       "title": "Assertion processing",
       "type": "row"
@@ -2040,8 +2056,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2059,6 +2074,7 @@
         "y": 100
       },
       "id": 28,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -2137,8 +2153,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2156,6 +2171,7 @@
         "y": 100
       },
       "id": 29,
+      "interval": "1",
       "options": {
         "legend": {
           "calcs": [],
@@ -2213,6 +2229,7 @@
         "y": 108
       },
       "id": 18,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -2293,8 +2310,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2312,6 +2328,7 @@
         "y": 108
       },
       "id": 3,
+      "interval": "1",
       "options": {
         "combine": false,
         "legend": {
@@ -2370,6 +2387,7 @@
         "y": 116
       },
       "id": 32,
+      "interval": "1",
       "options": {
         "calculate": false,
         "cellGap": 1,
@@ -2450,8 +2468,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2469,6 +2486,7 @@
         "y": 116
       },
       "id": 33,
+      "interval": "1",
       "options": {
         "combine": false,
         "legend": {
